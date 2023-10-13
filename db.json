@@ -1,0 +1,39 @@
+{
+  "videos": [
+    {
+      "id": "1",
+      "caption": "Google Pixel Portfolio",
+      "url": "https://lh3.googleusercontent.com/GWt_jxK_cgvtPI9Y0SJ3Q76v8JUef5fmwanJtz1rlKgWPAMZJYZfoqKc3iHuyeSjFpFToAryThAwol9-uUC_mFyzKC1fRU5i86E6=rw-e365-nu-w1050",
+      "embedLink": "https://www.youtube.com/embed/DQRNJ12tSlM"
+    }
+  ],
+  "categories": [
+    {
+      "category": "Backend",
+      "allVideos": [
+        null,
+        {
+          "id": "1",
+          "caption": "Google Pixel Portfolio",
+          "url": "https://lh3.googleusercontent.com/GWt_jxK_cgvtPI9Y0SJ3Q76v8JUef5fmwanJtz1rlKgWPAMZJYZfoqKc3iHuyeSjFpFToAryThAwol9-uUC_mFyzKC1fRU5i86E6=rw-e365-nu-w1050",
+          "embedLink": "https://www.youtube.com/embed/DQRNJ12tSlM"
+        },
+        {
+          "id": "1",
+          "caption": "Google Pixel Portfolio",
+          "url": "https://lh3.googleusercontent.com/GWt_jxK_cgvtPI9Y0SJ3Q76v8JUef5fmwanJtz1rlKgWPAMZJYZfoqKc3iHuyeSjFpFToAryThAwol9-uUC_mFyzKC1fRU5i86E6=rw-e365-nu-w1050",
+          "embedLink": "https://www.youtube.com/embed/DQRNJ12tSlM"
+        }
+      ],
+      "id": 2
+    }
+  ],
+  "history": [
+    {
+      "caption": "Google Pixel Portfolio",
+      "embedLink": "https://www.youtube.com/embed/DQRNJ12tSlM",
+      "timeStamp": "10/10/2023, 11:10:44 PM",
+      "id": 1
+    }
+  ]
+}
